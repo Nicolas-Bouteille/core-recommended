@@ -14,7 +14,7 @@
         "doctrine/lexer": "~1.2.3",
         "doctrine/reflection": "~1.2.3",
         "egulias/email-validator": "~3.2.1",
-        "guzzlehttp/guzzle": "~6.5.8",
+        "guzzlehttp/guzzle": "~7.4.5",
         "guzzlehttp/promises": "~1.5.2",
         "guzzlehttp/psr7": "~1.9.1",
         "longwave/laminas-diactoros": "~2.14.2",
