@@ -16,7 +16,7 @@
         "egulias/email-validator": "~3.2.1",
         "guzzlehttp/guzzle": "~7.4.5",
         "guzzlehttp/promises": "~1.5.2",
-        "guzzlehttp/psr7": "~1.9.1",
+        "guzzlehttp/psr7": "^1.9 || ^2.4",
         "longwave/laminas-diactoros": "~2.14.2",
         "masterminds/html5": "~2.7.6",
         "pear/archive_tar": "~1.4.14",
